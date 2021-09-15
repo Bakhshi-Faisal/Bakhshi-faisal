@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm faisal</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **private project**
+- 🔭 I’m currently working on **a private project**
+
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **ahmad143.faisal@gmail.com**
 
