@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning Kotlin,Docker 
 
-- 👯 I’m looking to collaborate on Symfony, JavaScript, Freelancing Opportunites, Open Source 
+- 👯 I’m looking to collaborate on Symfony and JavaScript
 
 - 💬 Talk to me about Symfony,CSS, Freelancing Opportunites, Open Source 
 
