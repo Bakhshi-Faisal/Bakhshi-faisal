@@ -52,8 +52,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhshi-Faisal&theme=default" />
 </a>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+  <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+  <iframe src="https://giphy.com/embed/XGqDsE3owV0RO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XGqDsE3owV0RO">via GIPHY</a></p>
 
 
