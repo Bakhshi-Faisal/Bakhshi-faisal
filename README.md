@@ -55,6 +55,6 @@
   <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
-  <iframe src="https://giphy.com/embed/XGqDsE3owV0RO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XGqDsE3owV0RO">via GIPHY</a></p>
+
 
 
